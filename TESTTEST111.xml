@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.8.4" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="360 HD"><display-name lang="tr">360 HD</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/30/Image/72x44_360tv_ekm2019.jpg"/></channel>
+<channel id="5+1 Concerts"><display-name lang="tr">5+1 Concerts</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/107/Image/radyo-kanallari-icin.png"/></channel>
+<channel id="A Haber HD"><display-name lang="tr">A Haber HD</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/301/Image/ahaber_h2018_72x44.png"/></channel>
+<channel id="A News HD"><display-name lang="tr">A News HD</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/501/Image/70x46.png"/></channel>
+<channel id="A Para HD"><display-name lang="tr">A Para HD</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/519/Image/70x46_apara.png"/></channel>
+<channel id="A Spor HD"><display-name lang="tr">A Spor HD</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/433/Image/aspor_haz2018_72x44.png"/></channel>
