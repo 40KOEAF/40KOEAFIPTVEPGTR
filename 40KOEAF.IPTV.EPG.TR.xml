@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by BEVY Visual Processor v0.8.4" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
-<channel id="360 HD"><display-name lang="tr">360 HD</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/30/Image/72x44_360tv_ekm2019.jpg"/></channel>
-<channel tvg-id="ASpor.tr" tvg-name="TV 8 HD" tvg-logo=""
+<channel id="ASpor.tr"><display-name lang="tr">ASPOR FHD</display-name><icon src="http://contentlibrary.digiturk.com.tr/Channel/30/Image/72x44_360tv_ekm2019.jpg"/></channel>
